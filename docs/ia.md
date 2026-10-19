@@ -7,6 +7,8 @@
 
 ## 1. 전체 화면 지도
 
+> 보기 쉬운 트리 다이어그램(FigJam): [캐러셀 디자인 툴 IA](https://www.figma.com/board/Mp6utyKiDJWgS7BKSOIa1j) — 1. 전체 구조, 2. 에디터 상세, 3. 디자인 패널 섹션
+
 ```mermaid
 flowchart TD
     S0[S0 첫 실행 안내] --> S1
