@@ -19,3 +19,4 @@
 | [UI 디자인 체크리스트](docs/ui-checklist.md) | 만들어야 할 화면, 상태, 컴포넌트, 아이콘 |
 | [경쟁 분석](docs/references/competitors.md) | 비슷한 툴, 사람들의 작업 방식, SWVY 직접 사용 기록 |
 | [캐러셀 배경 지식](docs/references/carousel-background.md) | 캐러셀이라는 말과 형식의 역사 (정확도 표시) |
+| [폰트 레퍼런스](docs/references/fonts.md) | 한글 무료 폰트 후보와 앱 내장 라이선스 |
