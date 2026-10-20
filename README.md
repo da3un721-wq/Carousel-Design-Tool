@@ -16,6 +16,7 @@
 | [IA · 사용 흐름](docs/ia.md) | 사용자가 앱을 쓰는 흐름 ([FigJam 다이어그램](https://www.figma.com/board/Mp6utyKiDJWgS7BKSOIa1j)) |
 | [구현 가능성 검토](docs/feasibility-review.md) | 기능별 난이도, 위험, 개발 초기 확인 목록 |
 | [개발 설계](docs/tech-design.md) | 사용 기술, 앱 구조, 데이터 구조, 개발 순서 |
+| [디자인 원칙](docs/design-principles.md) | UI 디자인 기준: 작품이 주인공, 미니멀하지만 아이덴티티 있게 |
 | [UI 디자인 체크리스트](docs/ui-checklist.md) | 만들어야 할 화면, 상태, 컴포넌트, 아이콘 |
 | [경쟁 분석](docs/references/competitors.md) | 비슷한 툴, 사람들의 작업 방식, SWVY 직접 사용 기록 |
 | [캐러셀 배경 지식](docs/references/carousel-background.md) | 캐러셀이라는 말과 형식의 역사 (정확도 표시) |
