@@ -1,5 +1,6 @@
 # 캐로킷 (CaroKit)
 
+> **캐러셀 만드는 사람들의 완벽한 어시스트 툴.**
 > 캐러셀에 필요한 도구가 다 들어있는 키트.
 > 인스타 캐러셀과 인스타툰을 iPad 한 곳에서 만드는 디자인 툴 (Figma + Illustrator + Procreate + Canva)
 
@@ -16,3 +17,5 @@
 | [구현 가능성 검토](docs/feasibility-review.md) | 기능별 난이도, 위험, 개발 초기 확인 목록 |
 | [개발 설계](docs/tech-design.md) | 사용 기술, 앱 구조, 데이터 구조, 개발 순서 |
 | [UI 디자인 체크리스트](docs/ui-checklist.md) | 만들어야 할 화면, 상태, 컴포넌트, 아이콘 |
+| [경쟁 분석](docs/references/competitors.md) | 비슷한 툴, 사람들의 작업 방식, SWVY 직접 사용 기록 |
+| [캐러셀 배경 지식](docs/references/carousel-background.md) | 캐러셀이라는 말과 형식의 역사 (정확도 표시) |
