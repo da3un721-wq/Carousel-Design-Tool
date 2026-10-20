@@ -1,6 +1,7 @@
 # 레퍼런스: 회전식 슬라이드 프로젝터 (Kodak Carousel)
 
 > 캐로킷 UI 콘셉트(툴 키트 × 슬라이드 프로젝터)를 위한 이미지 레퍼런스 모음.
+> 참고: 인스타 "캐러셀"이 코닥 프로젝터에서 나온 말은 아니에요. 둘 다 **회전목마(carousel)** 에서 이름을 따온 "형제" 관계라서 콘셉트 메타포로 쓰기 좋은 것.
 > 이미지는 각 페이지에서 확인할 수 있어요. 무드보드에는 참고용으로만 쓰고, 앱 화면이나 아이콘에 그대로 쓰지 않기 (저작권, 상표).
 
 ---
@@ -40,7 +41,7 @@
 
 | 무엇 | 왜 좋은지 | 링크 |
 |---|---|---|
-| **매드맨 "The Wheel" 캐러셀 피치** | 코닥이 "바퀴(The Wheel)"라고 부르려던 제품을 주인공이 "캐러셀"로 이름 붙이며 **"돌고 돌아 다시 집으로 돌아오는 시간 여행 기계"**라고 소개하는 명장면. 캐러셀이라는 말의 감성 | [Wikipedia](https://en.wikipedia.org/wiki/The_Wheel_(Mad_Men)), [Medium 해설](https://medium.com/@mathiaslasoen/what-we-can-learn-from-don-drapers-carousel-pitch-8f409f7c91ac) |
+| **매드맨 "The Wheel" 캐러셀 피치** (드라마 속 각색 장면) | 코닥이 "바퀴(The Wheel)"라고 부르려던 제품을 주인공이 "캐러셀"로 이름 붙이며 **"돌고 돌아 다시 집으로 돌아오는 시간 여행 기계"**라고 소개하는 명장면. 캐러셀이라는 말의 감성 | [Wikipedia](https://en.wikipedia.org/wiki/The_Wheel_(Mad_Men)), [Medium 해설](https://medium.com/@mathiaslasoen/what-we-can-learn-from-don-drapers-carousel-pitch-8f409f7c91ac) |
 | 매드맨과 실제 Kodak Carousel | | [PhotoShelter 블로그](https://blog.photoshelter.com/2008/07/mad-men-and-the-kodak-carousel/) |
 | "기억의 캐러셀" | 노르웨이 사진 박물관 글 | [Preus Museum](https://arkiv.preusmuseum.no/eng/Discover-the-Exhibitions/Education/Image-of-the-week/The-carousel-of-memory.html) |
 | 캐러셀 프로젝터 역사 | 1961년 첫 모델, 2004년 생산 종료 | [Wikipedia](https://en.wikipedia.org/wiki/Carousel_slide_projector), [EdTech Magazine](https://edtechmagazine.com/higher/article/2016/09/kodak-carousel-projectors-revolutionized-lecture) |
