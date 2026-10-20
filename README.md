@@ -21,3 +21,4 @@
 | [경쟁 분석](docs/references/competitors.md) | 비슷한 툴, 사람들의 작업 방식, SWVY 직접 사용 기록 |
 | [캐러셀 배경 지식](docs/references/carousel-background.md) | 캐러셀이라는 말과 형식의 역사 (정확도 표시) |
 | [폰트 레퍼런스](docs/references/fonts.md) | 한글 무료 폰트 후보와 앱 내장 라이선스 |
+| [디자인 툴 공통 UI](docs/references/design-tool-ui-patterns.md) | 피그마·일러·캔바·프로크리에이트의 공통 UI와 따를 관례 |
