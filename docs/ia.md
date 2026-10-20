@@ -1,6 +1,6 @@
-# 정보 구조 (IA) v0.2 · 사용 흐름
+# 캐로킷 (CaroKit): 정보 구조 (IA) v0.2 · 사용 흐름
 
-> **다이어그램(FigJam)**: [캐러셀 디자인 툴 IA · 사용 흐름](https://www.figma.com/board/Mp6utyKiDJWgS7BKSOIa1j)
+> **다이어그램(FigJam)**: [캐로킷 IA · 사용 흐름](https://www.figma.com/board/Mp6utyKiDJWgS7BKSOIa1j)
 >
 > 단순한 화면 나열이 아니라, 사용자가 이 앱을 **어떤 순서로 어떻게 쓰는지**를 왼쪽에서 오른쪽 흐름으로 보여준다.
 > 기준: 기능 명세서 v0.8 · iPad 네이티브 앱

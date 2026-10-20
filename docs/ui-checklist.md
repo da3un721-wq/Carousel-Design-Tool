@@ -1,4 +1,4 @@
-# UI 디자인 체크리스트
+# 캐로킷 (CaroKit): UI 디자인 체크리스트
 
 > 직접 UI를 디자인할 때 만들어야 하는 페이지, 상태, 팝업, 컴포넌트, 아이콘 목록.
 > 기준: [IA · 사용 흐름](ia.md) ([FigJam](https://www.figma.com/board/Mp6utyKiDJWgS7BKSOIa1j)), iPad Pro 13 가로 1376×1032
