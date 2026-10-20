@@ -24,7 +24,7 @@
 **추천 순서**: 8번 공통 컴포넌트 → 10번 아이콘 → 1번 페이지 → 3번 에디터 상태 → 나머지
 (컴포넌트를 먼저 만들어 두면 페이지는 조립만 하면 돼요)
 
-> 와이어프레임 v0.1: FigJam CaroKit 파일 › WireFrame 페이지. 스타일 기준은 [디자인 원칙](design-principles.md) 2-1장
+> 와이어프레임 v0.1: [CaroKit Figma 파일](https://www.figma.com/design/fRGnDrQsZ5Iyh8eUxt5sOx) › WireFrame 페이지. 스타일 기준은 [디자인 원칙](design-principles.md) 2-1장
 
 ---
 
