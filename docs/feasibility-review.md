@@ -363,6 +363,39 @@
 | IG-08 | 기본 비율 경고 | ✅ | ★★ | |
 | IG-09 | 영상 슬라이드 재생 | ✅ | ★★ | 미리보기에서 음소거로 자동 재생, 탭하면 소리 |
 
+### 2-14-1. 피드 계획과 인스타 계정 연동
+
+**1단계 (FP-01~04): 서버 없이 가능**
+
+| ID | 기능 | 판정 | 난이도 | 근거와 주의점 |
+|---|---|---|---|---|
+| FP-01 | 게시 상태 | ✅ | ★ | 프로젝트 정보에 상태 하나 추가 |
+| FP-02 | 피드 순서 계획 | ✅ | ★★ | 홈 그리드에서 끌어서 순서 바꾸기 |
+| FP-03 | 게시 캘린더 | ✅ | ★★ | 직접 그리는 캘린더 화면 |
+| FP-04 | 게시 주기 알림 | ✅ | ★★ | 아이패드 로컬 알림 (서버 필요 없음) |
+
+**2단계 (FP-05~08): 인스타 공식 API (Instagram API with Instagram Login)**
+
+| ID | 기능 | 판정 | 난이도 | 근거와 주의점 |
+|---|---|---|---|---|
+| FP-05 | 계정 연동 | ⚠️ | ★★★★ | 아래 조건 1~4 모두 필요 |
+| FP-06 | 게시물 불러오기 | ✅ (연동 후) | ★★ | 게시물 목록과 올린 시각 제공 🟡 |
+| FP-07 | 반응 보기 | ✅ (연동 후) | ★★★ | 좋아요·댓글 수, 인사이트(조회, 도달, 저장, 공유) 🟡. 지표 이름이 자주 바뀜 (예: 2025년 4월 "노출" 폐지 → "조회"로 대체 ✅) |
+| FP-08 | 프로젝트 ↔ 게시물 연결 | ✅ | ★★★ | 자동 매칭은 어려움 → 사용자가 고르게 |
+
+**계정 연동 조건**
+1. **프로페셔널 계정만**: 개인 계정용 API(Basic Display API)는 **2024년 12월 4일 종료** ✅. 지금 API는 비즈니스·크리에이터 계정 대상 ✅ (크리에이터 계정 전환은 인스타 앱에서 무료로 가능 🟡)
+2. **서버 필요**: 로그인 후 토큰을 받는 과정에 앱 비밀 키가 들어가서, 메타 문서가 **서버에서 처리하라**고 안내 ✅. 토큰은 약 60일 유효, 갱신 필요 ✅ → "서버 없음" 원칙의 예외. 작은 서버(로그인 처리만)와 운영비 발생
+3. **메타 앱 검수**: 필요한 권한마다 검수 신청, 사용 장면 화면 녹화 제출. 권한에 따라 비즈니스 인증도 필요할 수 있음 🟡
+4. **개인정보**: 개인정보처리방침에 인스타 데이터 처리 내용 추가, 연결 해제 시 데이터 삭제
+
+**참고: API로 바로 올리기**
+- API로 캐러셀을 올리면 **최대 10장** 🟡 (인스타 앱에서는 20장). 하루 게시 수 제한도 있음 → 캐로킷은 지금처럼 **사진 앱 저장 + 인스타 앱에서 올리기**(EX-08, EX-10)를 기본으로 유지
+
+**위험**: 메타는 API를 자주 바꾼다 (Basic Display 종료, 지표 폐지). 혼자 개발할 때 유지보수 부담이 크므로 **1단계를 먼저** 내고 2단계는 사용자 반응을 보고 결정한다.
+
+출처: [Meta: Basic Display API 종료 안내](https://developers.facebook.com/blog/post/2024/09/04/update-on-instagram-basic-display-api) · [Meta: Business Login for Instagram](https://developers.facebook.com/documentation/instagram-platform/instagram-api-with-instagram-login/business-login) · [Meta: Instagram Media Insights](https://developers.facebook.com/docs/instagram-platform/reference/instagram-media/insights/) · [Meta: Graph API v22.0 변경 내역](https://developers.facebook.com/docs/graph-api/changelog/version22.0) · [Postproxy: Post to Instagram via API (2026)](https://postproxy.dev/blog/post-to-instagram-via-api/) · [Upload-Post: Instagram API 2026](https://www.upload-post.com/instagram-api/)
+
 ### 2-15. 템플릿
 
 | ID | 기능 | 판정 | 난이도 | 근거와 주의점 |
