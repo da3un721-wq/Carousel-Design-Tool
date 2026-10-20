@@ -10,7 +10,7 @@
 
 | 무엇 | 볼 포인트 | 링크 |
 |---|---|---|
-| **Carousel-S** (1963, 한스 구겔로트 · 라인홀트 해커 디자인) | **MoMA 영구 소장품.** 브라운(Braun) 계열 울름 디자인이라 깔끔하고 프로다운 느낌. 캐로킷 톤에 가장 가까움 | [MoMA](https://www.moma.org/collection/works/3342) |
+| **Carousel-S** (1963, 한스 구겔로트 · 라인홀트 해커 디자인) | **MoMA 영구 소장품.** 울름 조형대학 교수 구겔로트(브라운 SK 4 공동 디자이너)의 디자인이라 깔끔하고 프로다운 느낌. 캐로킷 톤에 가장 가까움 | [MoMA](https://www.moma.org/collection/works/3342) |
 | **Carousel S-AV** (1964, 구겔로트) | Carousel-S의 후속 모델 | [퐁피두 센터](https://centrepompidou.fr/en/ressources/oeuvre/cgz6Axa) |
 | **Carousel Model 550R** (1961, 첫 캐러셀 모델) | 초기 형태, 원형 트레이가 위에 얹힌 모습 | [Science Museum Group](https://collection.sciencemuseumgroup.org.uk/objects/co205500/kodak-carousel-projector-model-550r) |
 | **Carousel 850H 투명 모델** | 속이 비치는 시연용 모델. **내부 구조(트레이 회전, 슬라이드가 떨어지는 구멍)** 를 볼 수 있음 | [Eastman Museum](https://collections.eastman.org/objects/517493/kodak-carousel-850h-slide-projector) |

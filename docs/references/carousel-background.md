@@ -62,9 +62,9 @@
 | 내용 | 정확도 |
 |---|---|
 | 첫 모델 **Carousel 550**은 **1961년** 출시 (영국 과학박물관 소장 기록 "Model 550R, 1961") | ✅ (일부 자료는 1962년) |
-| 원래 아이디어는 나폴리 출신 이탈리아계 미국인 **루이스 미수라카(Louis Misuraca)** 가 Kodak에 일시금을 받고 팔았다 | ⚠️ (위키백과 등 여러 곳에 나오지만 1차 자료 미확인) |
+| 원래 아이디어는 나폴리 출신 이탈리아계 미국인 **루이스 미수라카(Louis Misuraca)** 가 Kodak에 일시금을 받고 팔았다 | 🟡 (HfG 아카이브 박물관 기록에도 "코닥이 발명가 미수라카에게서 원형 트레이 프로젝터 특허를 샀다"고 나옴. 금액 등 세부는 미확인) |
 | 프로젝터 특허는 Kodak 산업디자이너 **데이비드 E. 핸슨(David E. Hansen)** 이름으로 1965년 등록, 원형 트레이 특허는 1962년 출원 · 1966년 등록 | ⚠️ (자료끼리 날짜 설명이 엇갈림) |
-| 독일 Kodak AG의 전문가용 **Carousel-S(1963)** 는 울름 조형대학 출신 **한스 구겔로트 · 라인홀트 해커** 가 디자인. 도장 알루미늄과 플라스틱, **MoMA 영구 소장품** | ✅ (MoMA 기록) |
+| 독일 Kodak AG의 전문가용 **Carousel-S(1963)** 는 **한스 구겔로트 · 라인홀트 해커** 가 디자인. 구겔로트는 울름 조형대학(HfG Ulm) 제품디자인 학과를 이끈 교수였고, 코닥 독일이 그의 노이울름 디자인 연구소에 유럽 시장용 재디자인을 맡겼다 (HfG 아카이브 기록). 트레이 가장자리를 비스듬히 깎아 슬라이드를 빼기 쉽게 하고 먼지 덮개를 더함. 도장 알루미늄과 플라스틱, **MoMA 영구 소장품** | ✅ (MoMA 기록) |
 
 ### 언제까지
 
@@ -149,7 +149,7 @@
 
 **조심해서 쓸 문장**
 - 매드맨 장면은 **드라마**라고 밝히고 인용하기 (실제 역사처럼 쓰지 않기)
-- 미수라카 발명설, 페이스북 디자이너 작명설은 "~라고 알려져 있다" 정도로만
+- 미수라카 아이디어설(🟡), 페이스북 디자이너 작명설(⚠️)은 "~라고 알려져 있다" 정도로만
 - Kodak, Carousel, 인스타그램 상표와 로고는 앱 이름, 아이콘, 광고에 쓰지 않기
 
 ---
@@ -165,6 +165,8 @@
 - [Wikipedia: Carousel slide projector](https://en.wikipedia.org/wiki/Carousel_slide_projector)
 - [Science Museum Group: Kodak Carousel projector Model 550R](https://collection.sciencemuseumgroup.org.uk/objects/co205500/kodak-carousel-projector-model-550r)
 - [MoMA: Carousel-S Slide Projector](https://www.moma.org/collection/works/3342)
+- [HfG-Archiv Ulm (museum-digital): Kodak Carousel-S 기록](https://bawue.museum-digital.de/pdf/object/71480.pdf?lang=en)
+- [SNL: Hans Gugelot](https://snl.no/Hans_Gugelot)
 - [Eastman Museum: Kodak Carousel 850H](https://collections.eastman.org/objects/517493/kodak-carousel-850h-slide-projector)
 - [Film Photography Project: Kodak 슬라이드 프로젝터 역사](https://filmphotographyproject.com/project-slides-vintage-kodak-slide-projector-history-advice/)
 - [Alex Denne: Carousel slide projector invention history](https://alexdenne.com/inventions/carousel-slide-projector/)
