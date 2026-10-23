@@ -14,7 +14,7 @@
 |---|---|
 | [기능 명세서](docs/feature-spec.md) | 전체 기능, 우선순위(P0~P2) |
 | [IA · 사용 흐름](docs/ia.md) | 사용자가 앱을 쓰는 흐름 ([FigJam 다이어그램](https://www.figma.com/board/Mp6utyKiDJWgS7BKSOIa1j)) |
-| 와이어프레임 | [CaroKit Figma 파일](https://www.figma.com/design/fRGnDrQsZ5Iyh8eUxt5sOx): **WireFrame v0.2** (최신, 10월 21일 스케치 반영), WireFrame v0.1 (기록), IA 페이지 |
+| 와이어프레임 | [CaroKit Figma 파일](https://www.figma.com/design/fRGnDrQsZ5Iyh8eUxt5sOx): **WireFrame v0.2** (최신, 10월 21일 스케치 반영), **Prototype v0.2** (눌러 보는 시안, ▶ 재생), WireFrame v0.1 (기록) |
 | [구현 가능성 검토](docs/feasibility-review.md) | 기능별 난이도, 위험, 개발 초기 확인 목록 |
 | [개발 설계](docs/tech-design.md) | 사용 기술, 앱 구조, 데이터 구조, 개발 순서 |
 | [디자인 원칙](docs/design-principles.md) | UI 디자인 기준: 작품이 주인공, 미니멀하지만 아이덴티티 있게 |
