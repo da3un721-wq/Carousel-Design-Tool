@@ -53,7 +53,7 @@
 
 ---
 
-## 2-1. 정한 스타일 (와이어프레임 v0.4)
+## 2-1. 정한 스타일 (와이어프레임 v0.3)
 
 [CaroKit Figma 파일 › WireFrame 페이지](https://www.figma.com/design/fRGnDrQsZ5Iyh8eUxt5sOx)의 "00 와이어프레임 규칙"과 같은 내용.
 
